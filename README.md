@@ -6,4 +6,4 @@
 
 
 ### Research Projects
-[Time series analysis with financial data](rnn_readme)
+[Time series analysis with financial data](rnn_readme.md)
